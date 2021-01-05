@@ -1,0 +1,41 @@
+body{
+    margin: 0px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+.half-width{
+    float: left;
+    width: 40%;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+
+h1{
+    font-size: 50px;
+}
+
+p{
+color: gray;
+font-size: 20px;
+}
+
+#name-color{
+    color: darkorange;
+}
+
+#headline-start{
+    color: darkslategrey;
+}
+.half-width img{
+    width: 100%;
+}
+
+.link-button{
+    text-decoration: none;
+    background-image:linear-gradient(45deg, hotpink, indianred) ;
+    padding: 10px, 20px;
+    border-radius: 10px;
+    color:snow;
+    font-weight: 700px;
+}
