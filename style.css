@@ -63,15 +63,8 @@ section{
     padding-bottom: 150px;
 }
 
-.photoedit{
-    float: left;
-    width: 30%;
-    height: 200px;
-    nargin-left: auto;
-    margin-right: auto;
-    margin-left: 3%;
-    padding-left: ;
-    
+.text{
+     padding: 10px;
 }
 .photoedit img{
     width: 100%;
@@ -79,13 +72,44 @@ section{
 
 }
 
-.center{
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-    color: tomato;
-    mix-blend-mode: difference;
+.card{
+    float: left;
+    margin: left;
+    border: 15px;
+    height: 450px;
+    width: 31%;
+    margin-left: 10px;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+
+}
+.work{
+    margin-left: 50px;
+
+
+}
+
+
+.background-image{
+    background-image: url(photos/group111.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    padding: 100px;
+    margin: 100px;
+    border-radius: 10px;
+}
+
+#somenew{
+    color: white;
+    
+}
+
+.movelink{
+    text-align: right;
+    
+}
+
+.foot{
     text-align: center;
-    
-    
 }
